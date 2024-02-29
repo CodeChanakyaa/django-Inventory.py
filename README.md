@@ -7,7 +7,7 @@ First clone the repository from Github and switch to the new directory:
 Now change directory to:
 
     $ cd django-Inventoryapi.py
-    $ cd CrudApi
+    $ cd wings-t4-miniproject-inventory-api
     
 Activate the virtualenv for your project.
     
